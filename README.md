@@ -7,5 +7,6 @@ This repository contains projects built using AI-assisted development tools.
 - Cursor
 - GitHub Copilot
 - codex
+- Replit agent
 
 For each project, I reviewed, modified, tested, and understood the generated code before committing it.
