@@ -7,6 +7,10 @@
 - Initialized Auth Service
 
 ## Day 2
-- Learned Express basics
-- Created first API
-- Understood middleware
+- Authentication (Auth Service)
+- Express.js project setup
+- TypeScript configuration
+- Environment variables using dotenv
+- MongoDB connection setup
+- Mongoose integration
+- Project folder structure
